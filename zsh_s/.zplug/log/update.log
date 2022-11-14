@@ -1,0 +1,9 @@
+repo:plugins/git	status:10
+repo:zsh-users/zsh-history-substring-search	status:10
+repo:zsh-users/zsh-completions	status:10
+repo:plugins/sudo	status:10
+repo:themes/crunch	status:10
+repo:junegunn/fzf	status:10
+repo:zsh-users/zsh-syntax-highlighting	status:10
+repo:zsh-users/zsh-autosuggestions	status:10
+repo:plugins/command-not-found	status:10
